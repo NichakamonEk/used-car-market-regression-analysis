@@ -88,5 +88,5 @@ These rules balance opportunity identification with model uncertainty.
 ---
 
 ## ▸ Repository Contents
-- `used-car-market-analysis-presentation.pdf` — Final analytical report and findings  
-- `used-car-dataset.csv` — Dataset used for analysis  
+- [used-car-market-analysis-report.pdf](./used-car-market-analysis-report.pdf) — Final analytical report and findings  
+- [used-car-dataset.csv](./used-car-dataset.csv) — Dataset used for analysis  
